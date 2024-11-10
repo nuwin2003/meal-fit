@@ -52,6 +52,17 @@ const OurServices = () => {
                     </Grid>
                 ))}
             </Grid>
+            <Box sx={{mt: 5, p: 4, textAlign: 'center'}}>
+                <Typography sx={{fontWeight: 500, color: "#757575"}}>
+                    At Meal Fit, we offer a comprehensive approach to wellness with personalized meal plans tailored to
+                    your dietary needs and health goals. Our services include BMI tracking, expert guidance from
+                    certified nutritionists and healthcare professionals, and access to doctor recommendations and
+                    appointments—all designed to support your journey toward a healthier lifestyle. With Meal Fit, you
+                    get the tools, insights, and professional support needed to make healthy eating accessible,
+                    enjoyable, and effective, ensuring you achieve your wellness goals with confidence
+                </Typography>
+            </Box>
+
         </Box>
 
     );
